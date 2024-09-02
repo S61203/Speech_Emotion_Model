@@ -188,22 +188,3 @@ plt.xlabel('Predicted')
 plt.ylabel('True')
 plt.title('Confusion Matrix')
 plt.show()
-
-"""saving
-
-"""
-
-model.save('model.h5')
-
-model.save('saved_model')
-
-from google.colab import files
-
-files.download('model.h5')
-
-from google.colab import drive
-drive.mount('/content/drive')
-
-model.save('/content/drive/My Drive/model.h5')
-
-drive.flush_and_unmount()
