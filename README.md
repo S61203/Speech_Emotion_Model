@@ -35,7 +35,9 @@ The model is built using the Keras library and consists of the following layers:
 * The model is trained using categorical cross-entropy loss and the Adam optimizer.
 
 **Results**
-The model was trained for 30 epochs with a batch size of 64. The following results were obtained:
+The model was trained for 30 epochs with a batch size of 64. 
+
+The following results were obtained:
 
 * Training Accuracy: 0.9949
 * Validation Accuracy: 0.9821
