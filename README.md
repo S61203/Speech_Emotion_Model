@@ -42,9 +42,11 @@ The following results were obtained:
 * Training Accuracy: 0.9949
 * Validation Accuracy: 0.9821
 
-**Confusion Matrix:** A heatmap representation of the confusion matrix.
+**Confusion Matrix:** 
+A heatmap representation of the confusion matrix.
 
-**Classification Report:** Precision, recall, and F1-score for each emotion class.
+**Classification Report:** 
+Precision, recall, and F1-score for each emotion class.
 
 **References**
 * Dataset: Toronto Emotional Speech Set (TESS) - Link to Dataset
